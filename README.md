@@ -71,3 +71,7 @@ While AI cheating tools might seem like a solution, they're really just a sympto
 ## The Future of Remote Interviews
 
 I believe (and hope) that as tools like these become more common, we'll see a shift in how remote interviews are conducted. Perhaps we'll move away from high-pressure, on-the-spot questioning and towards more thoughtful, comprehensive evaluations of a candidate's skills and potential for remote work.
+
+
+---
+I also published this on medium: https://medium.com/@ali.adam.abbas12/a-data-driven-analysis-of-ai-interview-cheating-tools-for-remote-job-seekers-d38fb83a707a
